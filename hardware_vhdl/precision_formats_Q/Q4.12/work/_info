@@ -1,0 +1,157 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Fvego/Desktop/vhdl_finale/cordic 16 ite con range
+Ecordic
+Z1 w1750452260
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 212
+R0
+Z5 8cordic.vhd
+Z6 Fcordic.vhd
+l0
+L5 1
+VEHCB:?0h71mk2nW6ZF0>i0
+!s100 cHFhMeXP5lG9_?R`KFCdV1
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1750452326
+!i10b 1
+Z9 !s108 1750452326.000000
+Z10 !s90 -reportprogress|300|cordic.vhd|
+Z11 !s107 cordic.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Apipelined
+R2
+R3
+R4
+Z13 DEx4 work 6 cordic 0 22 EHCB:?0h71mk2nW6ZF0>i0
+!i122 212
+l89
+L20 467
+V`JfT8c>ZX[ebJ?i?68f^93
+!s100 2BZNUOi5Lj9Ta48]Q?J4V2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Abehavioral
+R2
+R3
+R4
+DEx4 work 6 cordic 0 22 fH38oG<gk_]T2<Pa<k?NH0
+!i122 96
+l56
+L19 156
+Vji_]OaSKcKBf5hFQ[V87L2
+!s100 Y[>7TUQd`>m^QBaST>b7l2
+R7
+32
+!s110 1750436590
+!i10b 1
+!s108 1750436590.000000
+R10
+R11
+!i113 1
+R12
+w1750436647
+Ecordic_tb
+Z14 w1750442409
+Z15 DPx4 ieee 9 math_real 0 22 gNk<PdFJ<XNPcfef`f?Z81
+R2
+R3
+R4
+!i122 213
+R0
+Z16 8cordic_tb.vhd
+Z17 Fcordic_tb.vhd
+l0
+L6 1
+VUX6jV>JBo<bPMel53ncdM2
+!s100 1<MP2a`jPPKSoaR:>?`i=0
+R7
+32
+R8
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|cordic_tb.vhd|
+Z19 !s107 cordic_tb.vhd|
+!i113 1
+R12
+Atest
+R13
+R15
+R2
+R3
+R4
+Z20 DEx4 work 9 cordic_tb 0 22 UX6jV>JBo<bPMel53ncdM2
+!i122 213
+l30
+Z21 L9 206
+Z22 VRKf2kQV@a6AU<[KIkeDeo0
+Z23 !s100 ImemcQ@o0236=4A431Hed2
+R7
+32
+R8
+!i10b 1
+R9
+R18
+R19
+!i113 1
+R12
+Ecordic_top
+Z24 w1750421803
+R2
+R3
+R4
+!i122 0
+R0
+R5
+R6
+l0
+L5 1
+V[IK<WLiMC:DnP79oXR[g71
+!s100 25][Qoc9;U_J;bZ0YT:0k1
+R7
+32
+Z25 !s110 1750422381
+!i10b 1
+Z26 !s108 1750422381.000000
+R10
+R11
+!i113 1
+R12
+Abehavioral
+R2
+R3
+R4
+DEx4 work 10 cordic_top 0 22 [IK<WLiMC:DnP79oXR[g71
+!i122 0
+l61
+L21 170
+VB^XQ=6EzELMU;`SnT2T:`0
+!s100 lU_iMP98WGoGN2f2ZDLgC2
+R7
+32
+R25
+!i10b 1
+R26
+R10
+R11
+!i113 1
+R12

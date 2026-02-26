@@ -1,0 +1,96 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Fvego/Desktop/cordic_finale_range/sqrt integrato
+Ecordic
+Z1 w1751907091
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 5
+R0
+Z5 8cordic.vhd
+Z6 Fcordic.vhd
+l0
+L5 1
+VEHCB:?0h71mk2nW6ZF0>i0
+!s100 cHFhMeXP5lG9_?R`KFCdV1
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1751907541
+!i10b 1
+Z9 !s108 1751907541.000000
+Z10 !s90 -reportprogress|300|cordic.vhd|
+Z11 !s107 cordic.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Apipelined
+R2
+R3
+R4
+Z13 DEx4 work 6 cordic 0 22 EHCB:?0h71mk2nW6ZF0>i0
+!i122 5
+l99
+L20 490
+Vg`WWn^JS]G1A91P[oXgDK1
+!s100 0ILMn]g3BHAAbjB9g>F;81
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Ecordic_tb
+Z14 w1750442409
+Z15 DPx4 ieee 9 math_real 0 22 gNk<PdFJ<XNPcfef`f?Z81
+R2
+R3
+R4
+!i122 8
+R0
+Z16 8cordic_tb.vhd
+Z17 Fcordic_tb.vhd
+l0
+L6 1
+VUX6jV>JBo<bPMel53ncdM2
+!s100 1<MP2a`jPPKSoaR:>?`i=0
+R7
+32
+Z18 !s110 1751907960
+!i10b 1
+Z19 !s108 1751907960.000000
+Z20 !s90 -reportprogress|300|cordic_tb.vhd|
+Z21 !s107 cordic_tb.vhd|
+!i113 1
+R12
+Atest
+R13
+R15
+R2
+R3
+R4
+Z22 DEx4 work 9 cordic_tb 0 22 UX6jV>JBo<bPMel53ncdM2
+!i122 8
+l30
+Z23 L9 206
+Z24 VRKf2kQV@a6AU<[KIkeDeo0
+Z25 !s100 ImemcQ@o0236=4A431Hed2
+R7
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R12
