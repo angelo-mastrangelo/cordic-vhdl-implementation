@@ -35,7 +35,7 @@ The project conducts a deep dive into engineering trade-offs across three main v
 
 ### Graph 2: Dynamic Angle Tracking & Signal Fidelity
 ![Angle Tracking](assets/performance_and_error/angle_tracking.png)
-> **Description:** Visual comparison between the real input angle ($\theta$) and the hardware-calculated angle ($\hat{\theta}_{CORDIC}$). The output faithfully mirrors the original dynamic signal, demonstrating the algorithm's ability to operate on time-varying structures. The precision is quantified by the residual error $Error = \theta_{real} - \hat{\theta}_{CORDIC}$, which remains minimal across the entire operational range.
+> **Description:** Visual comparison between the real input angle ($\theta$) and the hardware-calculated angle ($\hat{\theta}_{CORDIC}$). The output faithfully mirrors the original dynamic signal, demonstrating the algorithm's ability to operate on time-varying structures. The precision is quantified by the residual error $\text{Error} = \theta_{\text{real}} - \hat{\theta}_{\text{CORDIC}}$, which remains minimal across the entire operational range.
 
 ---
 
@@ -52,3 +52,4 @@ The project conducts a deep dive into engineering trade-offs across three main v
 * `/docs`: Full Bachelor's Thesis (PDF) and technical synthesis reports.
 
 * `/assets`: High-resolution graphs and simulation waveforms.
+
