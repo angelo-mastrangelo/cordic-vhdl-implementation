@@ -50,4 +50,5 @@ The project conducts a deep dive into engineering trade-offs across three main v
 * `/hardware_vhdl`: Source RTL code for all configurations and Graphical models for functional verification
 * `/matlab_scripts`: Validation scripts for pre-synthesis error analysis 
 * `/docs`: Full Bachelor's Thesis (PDF) and technical synthesis reports.
+
 * `/assets`: High-resolution graphs and simulation waveforms.
