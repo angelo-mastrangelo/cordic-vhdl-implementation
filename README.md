@@ -5,7 +5,7 @@ A comprehensive Hardware-Software Co-Design project focused on the **CORDIC (COo
 Developed as a Bachelor's Thesis in Electronic Engineering, the project explores the multidimensional design space of iterative arithmetic processors, balancing precision, area, and speed.
 
 ## 🛠️ Tech Stack & Tools
-* **Design & Synthesis:** Intel/Altera **Quartus Prime** (VHDL RTL)
+* **Design & Synthesis:** Intel **Quartus Prime** (VHDL RTL)
 * **Simulation & Verification:** **ModelSim** (Functional & Timing simulation)
 * **Modeling & Analysis:** **MATLAB** & **Simulink** (Fixed-point Designer)
 * **Languages:** VHDL, MATLAB scripts
@@ -56,5 +56,6 @@ The project conducts a deep dive into engineering trade-offs across three main v
 * `/docs`: Full Bachelor's Thesis (PDF) and technical synthesis reports.
 
 * `/assets`: High-resolution graphs and simulation waveforms.
+
 
 
